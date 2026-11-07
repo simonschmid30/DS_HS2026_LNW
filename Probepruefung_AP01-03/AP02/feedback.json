@@ -1,0 +1,22 @@
+[
+  {
+    "product_id": 101,
+    "comment": "Great quality",
+    "sentiment": "positive"
+  },
+  {
+    "product_id": 103,
+    "comment": "Very sturdy",
+    "sentiment": "positive"
+  },
+  {
+    "product_id": 104,
+    "comment": "Size runs small",
+    "sentiment": "negative"
+  },
+  {
+    "product_id": 107,
+    "comment": "Battery weak",
+    "sentiment": "negative"
+  }
+]
